@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.3 65.3" width="65.3" height="65.3"><style>
+.ink{stroke:none}
+.ink.line{fill:#6c4a3a}
+.ink.detail{fill:#6c4a3a;opacity:.62}
+.ink.detail.faint{opacity:.34}
+.ink.rib{fill:#41673f;opacity:.55}
+.ink.rib.light{fill:#bcd59c;opacity:.85}
+.ink.vein.light{fill:#bcd59c;opacity:.5}
+.ink.petiole{fill:#5f8d55}
+.ink.glint{fill:#fff;opacity:.55}
+.ink.tassel{fill:#6c4a3a;opacity:.45}
+.ink.wire{fill:#6c4a3a;opacity:.5}
+.stitch{fill:none;stroke:#6c4a3a;stroke-width:.6;stroke-dasharray:1.6 2.4;opacity:.32}
+.knit{fill:none;stroke:#6c4a3a;stroke-width:.55;stroke-linejoin:round;opacity:.26}
+.ink.vein{fill:#41673f;opacity:.32}
+.ink.edge{fill:#bcd59c;opacity:.9}
+.ink.vine{fill:#5f8d55}
+.ink.twig{fill:#7d5038}
+.ink.bristle{fill:#a5adae}
+.ink.fringe{fill:#dbcab0}
+.ink.weave{fill:#a87b52}
+.ink.chrome-ring{fill:#a5adae}
+.ink.arm{fill:#3d3633}
+.ink.stripe{fill:#cf8f50}
+.ink.stripe.grey{fill:#958c86}
+.ink.stripe.black{fill:#3a3331}
+.ink.stripe.cream{fill:#e2c7a2}
+.ink.whisker{fill:#6c4a3a;opacity:.55}
+.fold{opacity:.7}
+.cast{fill:#3f322c;opacity:.3}
+.ao{fill:#3f322c;opacity:.22}
+.dots{fill:none;stroke:#6c4a3a;stroke-dasharray:.1 3.2;stroke-width:1.6;stroke-linecap:round;
+  stroke-opacity:.4}
+.seam{fill:none;stroke:#a87b52;stroke-width:.55;stroke-opacity:.45}
+.ink.grain{fill:#a87b52;opacity:.42}
+.ink.grain.light{fill:#d0a46f;opacity:.75}
+.ink.grain.walnut{fill:#5a3a2b;opacity:.5}
+.ink.grain.amber{fill:#7d5038;opacity:.42}
+.ink.knot{fill:#a87b52;opacity:.5}
+.lattice{fill:none;stroke:#b9a689;stroke-width:.8;stroke-opacity:.55}
+.cane{fill:none;stroke:#a87b52;stroke-width:.45;stroke-opacity:.5}
+.jute{fill:none;stroke:#a87b52;stroke-width:.6;stroke-opacity:.45}
+.multiply{mix-blend-mode:multiply}
+.screen{mix-blend-mode:screen}
+.wall{fill:none;stroke:#3f322c;stroke-linejoin:round;stroke-linecap:round}
+.wallcast{fill:none;stroke:#3f322c;stroke-width:30;opacity:.22}
+.glass-edge{fill:none;stroke:#fff;stroke-opacity:.55;stroke-width:1.2}
+.sill{fill:#efe6d6}
+.pane{fill:#d7e6e4;opacity:.9}
+.frame{fill:none;stroke:#6c4a3a;stroke-width:1}
+.frame.dark{stroke:#3d3633;stroke-width:1.3}
+.mullion{fill:#efe6d6;stroke:#6c4a3a;stroke-width:.6}
+.handle{fill:#d3d8d8;stroke:#6c4a3a;stroke-width:.5}
+.track{fill:#a5adae}
+.sill.track-bed{fill:#d3d8d8}
+.slider-frame{fill:#3d3633;stroke:#6c4a3a;stroke-width:.6}
+.pane.slider{fill:#cfe0e0;opacity:1}
+.glint-bar{fill:#fff;opacity:.6}
+.jamb{fill:#3f322c}
+.threshold{fill:#d0a46f}
+.threshold-line{fill:none;stroke:#6c4a3a;stroke-width:1}
+.ink.rod{fill:#6d7577}
+.ink.gloss{fill:#fff;opacity:.38}
+.ink.marble-vein{fill:#a59d92;opacity:.45}
+.ink.hob-ring{fill:#a5adae;opacity:.8}
+.ink.spout{fill:#a5adae}
+.label{font:500 10px "Avenir Next","Helvetica Neue",sans-serif;fill:#6c4a3a;
+  text-anchor:middle;opacity:.8}
+.title{font:600 14px "Avenir Next","Helvetica Neue",sans-serif;fill:#6c4a3a;
+  letter-spacing:.6px}
+</style><defs><filter id="b2_2" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="2.2"/></filter><filter id="b1_3" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="1.3"/></filter></defs><circle class="ao" cx="32.65" cy="32.65" r="17.65" filter="url(#b2_2)"/><circle class="cast" cx="33.65" cy="33.65" r="17.65" filter="url(#b1_3)"/></svg>

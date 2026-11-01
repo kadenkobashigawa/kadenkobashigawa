@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" width="26" height="26"><style>
+.ink{stroke:none}
+.ink.line{fill:#6c4a3a}
+.ink.detail{fill:#6c4a3a;opacity:.62}
+.ink.detail.faint{opacity:.34}
+.ink.rib{fill:#41673f;opacity:.55}
+.ink.rib.light{fill:#bcd59c;opacity:.85}
+.ink.vein.light{fill:#bcd59c;opacity:.5}
+.ink.petiole{fill:#5f8d55}
+.ink.glint{fill:#fff;opacity:.55}
+.ink.tassel{fill:#6c4a3a;opacity:.45}
+.ink.wire{fill:#6c4a3a;opacity:.5}
+.stitch{fill:none;stroke:#6c4a3a;stroke-width:.6;stroke-dasharray:1.6 2.4;opacity:.32}
+.knit{fill:none;stroke:#6c4a3a;stroke-width:.55;stroke-linejoin:round;opacity:.26}
+.ink.vein{fill:#41673f;opacity:.32}
+.ink.edge{fill:#bcd59c;opacity:.9}
+.ink.vine{fill:#5f8d55}
+.ink.twig{fill:#7d5038}
+.ink.bristle{fill:#a5adae}
+.ink.fringe{fill:#dbcab0}
+.ink.weave{fill:#a87b52}
+.ink.chrome-ring{fill:#a5adae}
+.ink.arm{fill:#3d3633}
+.ink.stripe{fill:#cf8f50}
+.ink.stripe.grey{fill:#958c86}
+.ink.stripe.black{fill:#3a3331}
+.ink.stripe.cream{fill:#e2c7a2}
+.ink.whisker{fill:#6c4a3a;opacity:.55}
+.fold{opacity:.7}
+.cast{fill:#3f322c;opacity:.3}
+.ao{fill:#3f322c;opacity:.22}
+.dots{fill:none;stroke:#6c4a3a;stroke-dasharray:.1 3.2;stroke-width:1.6;stroke-linecap:round;
+  stroke-opacity:.4}
+.seam{fill:none;stroke:#a87b52;stroke-width:.55;stroke-opacity:.45}
+.ink.grain{fill:#a87b52;opacity:.42}
+.ink.grain.light{fill:#d0a46f;opacity:.75}
+.ink.grain.walnut{fill:#5a3a2b;opacity:.5}
+.ink.grain.amber{fill:#7d5038;opacity:.42}
+.ink.knot{fill:#a87b52;opacity:.5}
+.lattice{fill:none;stroke:#b9a689;stroke-width:.8;stroke-opacity:.55}
+.cane{fill:none;stroke:#a87b52;stroke-width:.45;stroke-opacity:.5}
+.jute{fill:none;stroke:#a87b52;stroke-width:.6;stroke-opacity:.45}
+.multiply{mix-blend-mode:multiply}
+.screen{mix-blend-mode:screen}
+.wall{fill:none;stroke:#3f322c;stroke-linejoin:round;stroke-linecap:round}
+.wallcast{fill:none;stroke:#3f322c;stroke-width:30;opacity:.22}
+.glass-edge{fill:none;stroke:#fff;stroke-opacity:.55;stroke-width:1.2}
+.sill{fill:#efe6d6}
+.pane{fill:#d7e6e4;opacity:.9}
+.frame{fill:none;stroke:#6c4a3a;stroke-width:1}
+.frame.dark{stroke:#3d3633;stroke-width:1.3}
+.mullion{fill:#efe6d6;stroke:#6c4a3a;stroke-width:.6}
+.handle{fill:#d3d8d8;stroke:#6c4a3a;stroke-width:.5}
+.track{fill:#a5adae}
+.sill.track-bed{fill:#d3d8d8}
+.slider-frame{fill:#3d3633;stroke:#6c4a3a;stroke-width:.6}
+.pane.slider{fill:#cfe0e0;opacity:1}
+.glint-bar{fill:#fff;opacity:.6}
+.jamb{fill:#3f322c}
+.threshold{fill:#d0a46f}
+.threshold-line{fill:none;stroke:#6c4a3a;stroke-width:1}
+.ink.rod{fill:#6d7577}
+.ink.gloss{fill:#fff;opacity:.38}
+.ink.marble-vein{fill:#a59d92;opacity:.45}
+.ink.hob-ring{fill:#a5adae;opacity:.8}
+.ink.spout{fill:#a5adae}
+.label{font:500 10px "Avenir Next","Helvetica Neue",sans-serif;fill:#6c4a3a;
+  text-anchor:middle;opacity:.8}
+.title{font:600 14px "Avenir Next","Helvetica Neue",sans-serif;fill:#6c4a3a;
+  letter-spacing:.6px}
+</style><defs></defs><g class="piece brush"><path class="ink bristle" d="M13.1,13 L13.14,12.46 L13.27,11.72 L13.45,10.84 L13.53,9.85 L13.53,8.79 L13.52,7.71 L13.51,6.65 L13.42,5.66 L13.24,4.78 L13.12,4.04 L13.09,3.5 L12.91,3.5 L12.88,4.04 L12.76,4.78 L12.58,5.66 L12.49,6.65 L12.48,7.71 L12.47,8.79 L12.47,9.85 L12.55,10.84 L12.73,11.72 L12.86,12.46 L12.9,13 Z"/><path class="ink bristle" d="M12.96,13.08 L13.41,13.38 L13.99,13.85 L14.67,14.43 L15.49,14.99 L16.41,15.51 L17.35,16.05 L18.26,16.57 L19.16,17 L20.01,17.31 L20.7,17.58 L21.19,17.82 L21.27,17.68 L20.81,17.38 L20.23,16.92 L19.55,16.34 L18.73,15.77 L17.81,15.24 L16.88,14.7 L15.97,14.16 L15.07,13.73 L14.23,13.43 L13.53,13.17 L13.04,12.92 Z"/><path class="ink bristle" d="M12.96,12.93 L12.47,13.17 L11.78,13.44 L10.93,13.74 L10.03,14.17 L9.11,14.69 L8.17,15.22 L7.25,15.74 L6.43,16.3 L5.75,16.89 L5.18,17.37 L4.73,17.67 L4.82,17.83 L5.31,17.59 L6.01,17.33 L6.86,17.04 L7.75,16.61 L8.67,16.07 L9.59,15.52 L10.51,14.99 L11.32,14.42 L12.01,13.84 L12.59,13.37 L13.04,13.07 Z"/><path class="base" fill="#a5adae" d="M14.6,13 C14.6,13.38 14.4,13.86 14.13,14.13 C13.86,14.4 13.38,14.6 13,14.6 C12.62,14.6 12.14,14.4 11.87,14.13 C11.6,13.86 11.4,13.38 11.4,13 C11.4,12.62 11.6,12.14 11.87,11.87 C12.14,11.6 12.62,11.4 13,11.4 C13.38,11.4 13.86,11.6 14.13,11.87 C14.4,12.14 14.6,12.62 14.6,13 Z"/><path class="ink line thin" d="M14.41,13.57 L14.07,14.07 L13.55,14.33 L13,14.38 L12.51,14.19 L12.12,13.88 L11.87,13.47 L11.76,13 L11.87,12.53 L12.13,12.13 L12.53,11.87 L13,11.77 L13.47,11.88 L13.88,12.12 L14.18,12.51 L14.37,13 L14.32,13.55 L14.06,14.06 L13.57,14.41 L13.64,14.52 L14.2,14.2 L14.61,13.67 L14.83,13 L14.75,12.28 L14.39,11.61 L13.75,11.19 L13,11.03 L12.25,11.2 L11.61,11.61 L11.2,12.25 L11.04,13 L11.2,13.75 L11.62,14.38 L12.28,14.74 L13,14.82 L13.66,14.6 L14.2,14.2 L14.52,13.64 Z"/></g></svg>
